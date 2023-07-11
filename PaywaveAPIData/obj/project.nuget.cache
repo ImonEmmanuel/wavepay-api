@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Klgmp98JP4PTfls/a22UnW2tL7/sNC6LE/m5EILvlU+z0CYJSh4W8oyzt7fa/p58PWO9VIHR8XLepfB/r8aaIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Paywave\\PaywaveAPIData\\PaywaveAPIData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mongodb.bson\\2.19.2\\mongodb.bson.2.19.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
